@@ -5,9 +5,9 @@ video{
   height: auto;
 }
 #div1{
-  width: 342px;
+  width: 100%;
   border: 2px solid black;
-  height: 700px;
+  height: 100%;
 }
 p{
   font-size: 30px
